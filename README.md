@@ -29,5 +29,5 @@ Ensure you have Node.js and npm installed. You can download them from [nodejs.or
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/anandbhardwaj456/dynamic.git
-   cd dynamic-dashboard
+   git clone https://github.com/anandbhardwaj456/dashboard.git
+   cd dashboard
